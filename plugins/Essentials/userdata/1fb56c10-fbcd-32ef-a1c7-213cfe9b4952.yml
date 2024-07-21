@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721589983253
+  login: 1721588411662
+money: '0'
+last-account-name: Provodd
+lastlocation:
+  world: f36aeb8e-ed48-40fc-9877-bd6077407456
+  world-name: world
+  x: 205.21930345062464
+  y: 129.86815559849435
+  z: -90.49008705297913
+  yaw: 44.249603271484375
+  pitch: 14.850053787231445
+homes:
+  s1:
+    world: f36aeb8e-ed48-40fc-9877-bd6077407456
+    world-name: world
+    x: -420.45415205164596
+    y: 63.0
+    z: 927.6238287479408
+    yaw: -131.399658203125
+    pitch: 46.50012969970703
+  s2:
+    world: f36aeb8e-ed48-40fc-9877-bd6077407456
+    world-name: world
+    x: -415.40832715129426
+    y: 82.0
+    z: 242.18644001021673
+    yaw: 145.9541015625
+    pitch: 30.600114822387695
+  s3:
+    world: f36aeb8e-ed48-40fc-9877-bd6077407456
+    world-name: world
+    x: -108.26738693559177
+    y: 139.0
+    z: 98.93075536137333
+    yaw: 169.2000732421875
+    pitch: 29.250001907348633
+logoutlocation:
+  world: f36aeb8e-ed48-40fc-9877-bd6077407456
+  world-name: world
+  x: -127.49398959669172
+  y: 105.8737971108305
+  z: 54.54283873683785
+  yaw: 44.550167083740234
+  pitch: 8.24999713897705
